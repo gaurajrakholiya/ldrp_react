@@ -1,4 +1,3 @@
-
 // import {a,b} from './app'
 
 // import './style.css'
@@ -7,13 +6,11 @@
 // console.log(a)
 // console.log(b)
 
-
 // dependencies no  vapratu hoy te
 // devdependencies program ma vapratu hoy
-// 
+//
 
-
-import React from 'react'
+import React from 'react';
 import { createRoot } from 'react-dom/client';
 
 const container = document.getElementById('app');
